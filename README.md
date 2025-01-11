@@ -58,5 +58,5 @@ Ensure you have the following installed and configured:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/mini-media.git
+   git clone https://github.com/Mohammad-Imran01/mini-media.git
    cd mini-media

@@ -1,0 +1,6 @@
+*.pro.user
+*.obj
+*.dll
+*.so
+*.exe
+build/

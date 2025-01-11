@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/captureImage.svg</file>
+        <file>resource/loadMedia.svg</file>
+        <file>resource/mic.svg</file>
+        <file>resource/next.svg</file>
+        <file>resource/pauseMedia.svg</file>
+        <file>resource/playMedia.svg</file>
+        <file>resource/prev.svg</file>
+        <file>resource/recordVideo.svg</file>
+        <file>resource/restartMediaPlay.svg</file>
+        <file>resource/save.svg</file>
+        <file>resource/arrowPrev.svg</file>
+        <file>resource/nextArrow.svg</file>
+        <file>resource/cancel.svg</file>
+        <file>resource/mute.svg</file>
+        <file>resource/sound.svg</file>
+        <file>resource/iconCamera.svg</file>
+        <file>resource/iconPlayer.svg</file>
+        <file>resource/qss/AMOLED.qss</file>
+        <file>resource/qss/Aqua.qss</file>
+        <file>resource/qss/ConsoleStyle.qss</file>
+        <file>resource/qss/ElegantDark.qss</file>
+        <file>resource/qss/ManjaroMix.qss</file>
+        <file>resource/qss/MaterialDark.qss</file>
+        <file>resource/qss/darkStyle.qss</file>
+        <file>resource/markQuestion.svg</file>
+        <file>resource/miniMedia.ico</file>
+        <file>resource/fullScreen.svg</file>
+    </qresource>
+</RCC>

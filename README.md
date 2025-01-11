@@ -2,6 +2,9 @@
 
 **Mini-Media** is a Qt6-based multimedia application designed to provide robust media capturing and playback functionalities with a modern and customizable interface. Built using MSVC 2019 and Qt6, the application supports multiple themes, advanced playback features, and an intuitive UI for a delightful user experience.
 
+
+- Feel free to Contribute
+- Can be used to learn the Multimedia library as well
 ---
 
 ## Features

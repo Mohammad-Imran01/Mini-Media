@@ -24,7 +24,6 @@
 ### 🎥 Media Playback (Tab 2)
 - **Image Viewer**:  
   - Open and view images in an interactive interface.  
-![Play](./demo/playVideoDarkMode.png)
 - **Audio/Video Player**:  
   - Play audio and video files with customizable controls.  
   - Support for changing playback language or audio tracks.  
@@ -32,6 +31,9 @@
     - **Playback Speed Adjustment**: Slow down or speed up media playback.  
     - **Seeking and Looping**: Jump to specific points or loop sections.  
     - **Volume and Balance Control**: Adjust sound levels and balance.
+
+![Play](./demo/playVideoDarkMode.png)
+
 
 ---
 ![Play](./demo/AnotherThemeVideo.png)

@@ -24,7 +24,7 @@
 ### 🎥 Media Playback (Tab 2)
 - **Image Viewer**:  
   - Open and view images in an interactive interface.  
-
+![Play](./demo/playVideoDarkMode.png)
 - **Audio/Video Player**:  
   - Play audio and video files with customizable controls.  
   - Support for changing playback language or audio tracks.  
@@ -34,7 +34,7 @@
     - **Volume and Balance Control**: Adjust sound levels and balance.
 
 ---
-
+![Play](./demo/AnotherThemeVideo.png)
 ### 🎨 Themes and Customization
 Mini-Media offers different Light/Dark mode themes. 
 

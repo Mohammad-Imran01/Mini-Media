@@ -36,9 +36,10 @@
 
 
 ---
-![Play](./demo/AnotherThemeVideo.png)
 ### 🎨 Themes and Customization
 Mini-Media offers different Light/Dark mode themes. 
+
+![Play](./demo/AnotherThemeVideo.png)
 
 ---
 

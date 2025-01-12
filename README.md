@@ -17,7 +17,7 @@
 - **Audio/Video Recording**:  
   - Record audio or video using microphones and cameras.  
   - Save recordings in standard formats for easy playback and sharing.  
-![Capture/Record](dir/demo/cameraInAction.png)
+![Capture/Record](./demo/cameraInAction.png)
 
 ---
 
